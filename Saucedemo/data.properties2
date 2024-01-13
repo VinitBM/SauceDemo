@@ -1,0 +1,9 @@
+
+
+
+
+locators.username=//input[@id='user-name']
+locators.password=//input[@id='password']
+locators.loginbtn=//input[@id='login-button']
+locators.menubtn=//button[@id='react-burger-menu-btn']
+locators.logout=//a['logout_sidebar_link']
